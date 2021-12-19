@@ -37,7 +37,6 @@ xui.Class('App', 'xui.Module',{
                 .setTop("4.571428571428571em")
                 .setWidth("39.31428571428572em")
                 .setHeight("11.885714285714286em")
-                .setSrc("https://drive.google.com/file/d/1_rMGD8AQgDnI-Gkps1F_AmJlWN_tRBaK/view?usp=sharing")
             );
             
             return children;
